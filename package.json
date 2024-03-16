@@ -1,0 +1,31 @@
+{
+  "name": "image-utils-pose",
+  "version": "1.0.0",
+  "description": "A collection of utilities for image manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+    "sharp": "^0.29.1",
+    "stellar-wisdom-rise": "1.0.0",
+    "saystellar-essentials": "1.0.0",
+    "serenify-seem": "1.0.0",
+    "magic-sink": "1.0.0",
+    "kamidpavil-password-utils": "1.1.4",
+    "mackashley829-string-random": "1.1.4",
+    "celestial-harmony-tie": "1.0.0",
+    "give-password-utils": "1.0.0",
+    "take-text-crypto": "1.0.0",
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
