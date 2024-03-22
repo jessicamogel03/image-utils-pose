@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "<repository_url>"
+    "url": "https://github.com/jessicamogel03/image-utils-pose"
   },
   "dependencies": {
     "sharp": "^0.29.1",
@@ -25,7 +25,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "<repository_url>/issues"
+    "url": "https://github.com/jessicamogel03/image-utils-pose/issues"
   },
-  "homepage": "<repository_url>#readme"
+  "homepage": "https://github.com/jessicamogel03/image-utils-pose#readme"
 }
